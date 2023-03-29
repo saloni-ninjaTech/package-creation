@@ -1,0 +1,24 @@
+{
+  "name": "popup-script",
+  "version": "1.0.1",
+  "description": "It is popup script, which can be reuse in any website by updating proper JSON.",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saloni-ninjaTech/package-creation.git"
+  },
+  "keywords": [
+    "popup-script",
+    "popup",
+    "embeded-popup"
+  ],
+  "author": "Saloni Darji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saloni-ninjaTech/package-creation/issues"
+  },
+  "homepage": "https://github.com/saloni-ninjaTech/package-creation#readme"
+}
