@@ -526,7 +526,7 @@ var input = [
   },
 ];
 
-const module = (function (input) {
+const popupModule = (function (input) {
   var uid = "";
   var site = "";
   function uuidBeacon() {
@@ -1102,4 +1102,5 @@ const module = (function (input) {
     pageLoad: pageLoad,
   };
 })(input);
-module.pageLoad();
+
+module.exports = popupModule.pageLoad();
